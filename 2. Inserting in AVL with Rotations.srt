@@ -1,0 +1,839 @@
+1
+00:00:00,500 --> 00:00:07,590
+And this video we learn about rotations at the time of insertion that is at the time of creation of
+
+2
+00:00:07,620 --> 00:00:08,550
+a year.
+
+3
+00:00:09,150 --> 00:00:15,810
+When we are creating an avian tree and inserting any key into a reality then some laws may become imbalance.
+
+4
+00:00:15,840 --> 00:00:17,550
+So tree becomes imbalance.
+
+5
+00:00:17,600 --> 00:00:24,840
+So go balance that we performed our patients so those rotations are named as another rotation out of
+
+6
+00:00:24,860 --> 00:00:29,700
+rotation a lot and all of our patients will understand all this for patients one by one.
+
+7
+00:00:30,090 --> 00:00:31,770
+So let us start with the first one.
+
+8
+00:00:31,830 --> 00:00:37,220
+First one a little rotation little logistic of initial three.
+
+9
+00:00:37,330 --> 00:00:39,930
+Suppose this was the initial avian tree.
+
+10
+00:00:40,080 --> 00:00:41,830
+What are the balance factors.
+
+11
+00:00:41,850 --> 00:00:44,170
+See this balance factor of this zero.
+
+12
+00:00:44,220 --> 00:00:46,130
+And this is one and zero.
+
+13
+00:00:46,140 --> 00:00:50,100
+So this is one minus zero is one for balance factor of the smallest one.
+
+14
+00:00:55,410 --> 00:01:02,590
+Then I want to insert the value ten so after inserting 10 in this one for 10 will come then it's less
+
+15
+00:01:02,590 --> 00:01:04,830
+than 30 less then print so it will come on the side.
+
+16
+00:01:05,360 --> 00:01:11,410
+So Turkey green tea and then what are the balance factors.
+
+17
+00:01:11,440 --> 00:01:12,700
+This is zero.
+
+18
+00:01:12,700 --> 00:01:15,350
+This is one minus zero so one.
+
+19
+00:01:15,460 --> 00:01:18,280
+This is it two minus zero on this site.
+
+20
+00:01:18,280 --> 00:01:19,120
+So this is two.
+
+21
+00:01:20,530 --> 00:01:25,290
+So this new order became imbalance of the balance Factor Four should not be more than one.
+
+22
+00:01:25,300 --> 00:01:27,120
+So what the balance factor is two.
+
+23
+00:01:27,130 --> 00:01:29,940
+So this order became imbalance.
+
+24
+00:01:30,050 --> 00:01:37,200
+No we're going to give the name for the imbalance when this node became imbalance because of insertion
+
+25
+00:01:37,260 --> 00:01:38,070
+of.
+
+26
+00:01:38,250 --> 00:01:44,110
+So in direction Dr. Tennyson so that left off left.
+
+27
+00:01:44,700 --> 00:01:49,350
+So I will give the name as an imbalance.
+
+28
+00:01:49,350 --> 00:01:52,680
+So this is a really matter for a little imbalance.
+
+29
+00:01:52,680 --> 00:01:54,420
+How the perform rotation.
+
+30
+00:01:54,540 --> 00:01:56,520
+Let us take the tree once again here.
+
+31
+00:01:56,780 --> 00:02:04,400
+Still perform rotation around this node still perform a rotation in the static direction.
+
+32
+00:02:04,500 --> 00:02:06,770
+So what does it mean by rotation.
+
+33
+00:02:06,780 --> 00:02:08,540
+Imagine that this is a trader.
+
+34
+00:02:09,100 --> 00:02:14,460
+Okay keep your finger here and pull the thread on this site pull the thread on this side.
+
+35
+00:02:14,730 --> 00:02:20,610
+So if you pull the thread it will rotate around the finger right so then it rotate around the Finger
+
+36
+00:02:20,970 --> 00:02:28,710
+Turkey will come on this site and printing will move up at here and then will move a little above its
+
+37
+00:02:28,710 --> 00:02:29,440
+position.
+
+38
+00:02:30,210 --> 00:02:32,740
+So the tree looks like this.
+
+39
+00:02:32,800 --> 00:02:34,390
+That's the meaning of rotation.
+
+40
+00:02:34,420 --> 00:02:42,110
+Hold your finger and move this node so rotate around your finger rotate around a fixed point okay.
+
+41
+00:02:42,280 --> 00:02:45,610
+So this the rotated 3.
+
+42
+00:02:45,790 --> 00:02:47,680
+Let us check the balance factors.
+
+43
+00:02:47,710 --> 00:02:48,860
+This is 0.
+
+44
+00:02:48,910 --> 00:02:49,860
+This is 0.
+
+45
+00:02:49,870 --> 00:02:53,280
+This is one minus 1 0.
+
+46
+00:02:53,410 --> 00:03:00,380
+A lot of balance are on which an order we have rotated this node so at that place who is there not 20.
+
+47
+00:03:00,490 --> 00:03:01,620
+Is it balance or not.
+
+48
+00:03:01,810 --> 00:03:03,470
+Yes it became yes.
+
+49
+00:03:03,940 --> 00:03:05,840
+But in fact it became zero.
+
+50
+00:03:05,860 --> 00:03:12,790
+So on whichever known you perform rotation the balance factor should become zero for X1 earlier objective
+
+51
+00:03:12,810 --> 00:03:17,850
+position the balance factor was 2 not the same position the benefactor is 0.
+
+52
+00:03:17,950 --> 00:03:21,450
+So this is the procedure for rotation not for the important things.
+
+53
+00:03:21,570 --> 00:03:26,240
+First team what should be the name of this rotation imbalance.
+
+54
+00:03:26,230 --> 00:03:28,780
+I explain a little imbalance right.
+
+55
+00:03:29,110 --> 00:03:36,350
+So let us call the rotation also a little station so I'll give them the mass and then rotation.
+
+56
+00:03:36,910 --> 00:03:44,000
+So based on imbalance I have given the rotation name once was eleven now you can say that no no it is
+
+57
+00:03:44,000 --> 00:03:48,310
+rotating on the right hand side we are pulling it on the right hand side.
+
+58
+00:03:48,470 --> 00:03:50,560
+Call it has a right rotation OK.
+
+59
+00:03:50,750 --> 00:03:51,790
+That is also correct.
+
+60
+00:03:51,860 --> 00:03:52,840
+Then somebody say that.
+
+61
+00:03:52,840 --> 00:03:55,210
+No no it is rotating like a clock.
+
+62
+00:03:55,250 --> 00:03:57,960
+So it is clockwise rotation.
+
+63
+00:03:58,050 --> 00:04:05,890
+OK call it does clockwise clockwise rotation so you can give any name that is no standard name for this
+
+64
+00:04:05,890 --> 00:04:07,350
+one right.
+
+65
+00:04:07,960 --> 00:04:09,330
+This is a subtle patient.
+
+66
+00:04:09,340 --> 00:04:10,810
+There is no standard name.
+
+67
+00:04:10,810 --> 00:04:16,570
+So if you want you can give any name I have selected the names so that it is easy for understanding
+
+68
+00:04:16,660 --> 00:04:18,200
+even the complex things.
+
+69
+00:04:18,310 --> 00:04:24,820
+So I'm calling does a Latin mass if I call it as right rotation or a clockwise rotation maybe I may
+
+70
+00:04:24,820 --> 00:04:29,460
+not be able to explain you that things more clearly that is follow a little rotation.
+
+71
+00:04:29,530 --> 00:04:33,070
+So this is after an end rotation.
+
+72
+00:04:33,250 --> 00:04:34,910
+So this is about name.
+
+73
+00:04:34,960 --> 00:04:41,770
+Second thing second important thing you hear me thinking that I have taken just a small degree just
+
+74
+00:04:41,790 --> 00:04:47,710
+with the three notes what I should do if the tree is very big so don't worry.
+
+75
+00:04:47,710 --> 00:04:55,570
+Rotations are always done with the three notes on me always so delicately notes even if a tree is having
+
+76
+00:04:55,570 --> 00:05:00,290
+toes and nodes also rotations perform over three notes for me.
+
+77
+00:05:00,310 --> 00:05:03,450
+So understand this clearly then two examples.
+
+78
+00:05:03,460 --> 00:05:07,240
+I will show you how this is done on bigger sites that results.
+
+79
+00:05:07,300 --> 00:05:11,170
+So that's all about force rotation right now.
+
+80
+00:05:11,170 --> 00:05:16,170
+Next we will look at r r or patient for all our rotation.
+
+81
+00:05:16,180 --> 00:05:22,030
+This the initial three balance factor leaves no to zero and this one is zero minus one.
+
+82
+00:05:22,060 --> 00:05:22,950
+So this is minus.
+
+83
+00:05:22,960 --> 00:05:29,400
+Next I will insert 13 this one so can I'm pretty are already there.
+
+84
+00:05:29,410 --> 00:05:34,450
+So 30 is greater than 10 and greater than pretty sweet comes from this not a balanced factor of this
+
+85
+00:05:34,450 --> 00:05:38,860
+one zero this is zero minus one minus one this is zero minus two.
+
+86
+00:05:38,860 --> 00:05:46,100
+So this is minus two minus two is not a valid balance factor but fact cannot be less than minus one.
+
+87
+00:05:46,240 --> 00:05:47,380
+This is minus 2.
+
+88
+00:05:47,380 --> 00:05:49,730
+So this nor to begin imbalance.
+
+89
+00:05:49,750 --> 00:05:51,340
+So why did it became imbalanced.
+
+90
+00:05:51,340 --> 00:05:58,040
+Because we have inserted Tati just now very we have inserted a right Chertoff right chain right.
+
+91
+00:05:58,060 --> 00:05:59,320
+It is a right cello right.
+
+92
+00:05:59,320 --> 00:06:00,190
+And so on.
+
+93
+00:06:00,520 --> 00:06:04,480
+So let us call decides r r imbalance.
+
+94
+00:06:04,500 --> 00:06:06,300
+Now let us see how to perform rotation.
+
+95
+00:06:06,310 --> 00:06:07,200
+So I agree.
+
+96
+00:06:07,270 --> 00:06:14,980
+I'll take a dream once again perform rotation around this mood in this indentation third means hold
+
+97
+00:06:14,980 --> 00:06:17,780
+your finger here and pull this turn on the side.
+
+98
+00:06:17,830 --> 00:06:21,150
+So if you pull it down on this side then 10 comes here.
+
+99
+00:06:21,290 --> 00:06:26,480
+Burundi will take the place of 10 and 20 will move up a little bit.
+
+100
+00:06:26,500 --> 00:06:28,680
+Now the balance factor of this is 0.
+
+101
+00:06:28,690 --> 00:06:30,810
+This is 0 and this is also equal.
+
+102
+00:06:31,280 --> 00:06:33,800
+So it's perfectly balanced.
+
+103
+00:06:33,820 --> 00:06:36,100
+Now what should be the name of this rotation.
+
+104
+00:06:36,100 --> 00:06:41,440
+As I said this is r imbalance so let us call the size on our rotation only.
+
+105
+00:06:41,440 --> 00:06:44,840
+So this is r vacation.
+
+106
+00:06:45,010 --> 00:06:48,240
+So this is after R R rotation.
+
+107
+00:06:48,400 --> 00:06:51,210
+If you say no no this is less protection.
+
+108
+00:06:51,230 --> 00:06:55,490
+Okay you call it if you said no no this is counter-clockwise rotation.
+
+109
+00:06:55,510 --> 00:07:00,670
+Okay you can call it you can give any name you like that song.
+
+110
+00:07:00,870 --> 00:07:06,720
+One important thing in a little rotation the final result was this one previous rotation and this audition
+
+111
+00:07:06,720 --> 00:07:07,740
+also same result.
+
+112
+00:07:08,070 --> 00:07:13,390
+Yes in all four rotation that did just a three N V get the same result.
+
+113
+00:07:13,410 --> 00:07:14,810
+That is a balance.
+
+114
+00:07:15,360 --> 00:07:20,490
+Now next rotation will look at that is a lot for a lot of attention.
+
+115
+00:07:20,550 --> 00:07:22,080
+This is the initial treat.
+
+116
+00:07:22,500 --> 00:07:25,690
+Let us insert Brenda in this one so all right.
+
+117
+00:07:25,690 --> 00:07:26,080
+No.
+
+118
+00:07:26,110 --> 00:07:33,430
+Three's having tardy and can do indeed is less than 30 so it will come one less site but it is greater
+
+119
+00:07:33,430 --> 00:07:35,950
+than 10 so it will come on right side.
+
+120
+00:07:36,120 --> 00:07:41,520
+One of the balance factors this is zero this is zero minus one minus one.
+
+121
+00:07:41,610 --> 00:07:44,210
+This is one two minus the two.
+
+122
+00:07:44,220 --> 00:07:47,980
+So this is to do minus single.
+
+123
+00:07:48,090 --> 00:07:49,950
+This note became imbalance.
+
+124
+00:07:49,950 --> 00:07:56,080
+This is imbalance vision direction in session is a done just not being sort of 20 on which side.
+
+125
+00:07:56,190 --> 00:08:00,550
+Left right so left right first left child and right.
+
+126
+00:08:00,560 --> 00:08:02,510
+Che l r imbalance.
+
+127
+00:08:02,520 --> 00:08:07,680
+So let us call the size L R imbalance and hold orientation should we perform.
+
+128
+00:08:07,710 --> 00:08:09,280
+I will read all three here.
+
+129
+00:08:09,720 --> 00:08:14,250
+So forcible perform rotation around the snored like this.
+
+130
+00:08:14,790 --> 00:08:25,880
+So what then with the reserved thirty brandy and then right or ten holding a finger here or it and then
+
+131
+00:08:25,880 --> 00:08:27,950
+come the side Brandy moves up.
+
+132
+00:08:28,070 --> 00:08:36,790
+So this holiday tree looks like the balance factors of 0 1 and 2 not perform rotation around this morgue
+
+133
+00:08:36,920 --> 00:08:40,060
+like this what is the result.
+
+134
+00:08:40,190 --> 00:08:41,460
+Same order.
+
+135
+00:08:41,540 --> 00:08:47,920
+So trendy in the root 10 and 30 see put out on the side.
+
+136
+00:08:47,990 --> 00:08:56,140
+So Brandy will move up today will come down and turn also will move up the balance factor side 0 0 0.
+
+137
+00:08:56,400 --> 00:08:58,170
+What do you got to do this.
+
+138
+00:08:58,260 --> 00:09:02,300
+OK rotation and occupation.
+
+139
+00:09:02,400 --> 00:09:07,040
+This is also an art if you want to give the name based on the direction of rotation.
+
+140
+00:09:07,050 --> 00:09:12,670
+Just watch it left rotation then the right rotation so this is a lot only with that perspective also
+
+141
+00:09:12,670 --> 00:09:15,150
+it does so this is a lot rotation.
+
+142
+00:09:15,150 --> 00:09:23,070
+See this is one rotation only but there are two steps in this one so we call this has double the rotation
+
+143
+00:09:23,460 --> 00:09:29,100
+we call it gets a double rotation like that I will talk about this one this looks a little complex how
+
+144
+00:09:29,100 --> 00:09:35,230
+to do this so I show your direct method for this one let us take this stream once again here.
+
+145
+00:09:35,250 --> 00:09:41,070
+So this time should move this site route should move this site and this newly inserted move should go
+
+146
+00:09:41,070 --> 00:09:45,700
+in the place of route so Trinity will slip on this site right.
+
+147
+00:09:45,720 --> 00:09:52,100
+It will come on this site Turkey will move towards right Grandi when it went on the route pretty went
+
+148
+00:09:52,100 --> 00:09:57,250
+on right but instead of two steps we can see it as a single step.
+
+149
+00:09:57,250 --> 00:10:03,590
+So we have to send this nor there and move that northern on site for that solar water lock then order.
+
+150
+00:10:03,750 --> 00:10:08,270
+I will explain you quickly you have understood how these are working for our location.
+
+151
+00:10:08,270 --> 00:10:10,800
+This is the initial tree 10 in Turkey.
+
+152
+00:10:10,860 --> 00:10:14,770
+Right now we will insert a new element trained in this one.
+
+153
+00:10:15,330 --> 00:10:19,650
+So if we insert Brandy Brandy is greater than 10 but less than 30.
+
+154
+00:10:19,650 --> 00:10:26,250
+So he'd come to this site then the balance factors are 0 1 and this is minus 2.
+
+155
+00:10:26,250 --> 00:10:29,700
+So this became imbalance which imbalance right left.
+
+156
+00:10:30,030 --> 00:10:37,950
+So are El imbalance so in sharp eyed or orderly imbalance and loading sea we get that rather other.
+
+157
+00:10:37,960 --> 00:10:39,390
+So that's why I did not remove it.
+
+158
+00:10:39,390 --> 00:10:42,750
+We get that a on the always we are getting similar there for three knots.
+
+159
+00:10:42,750 --> 00:10:44,990
+Anyway you have to perform rotation on this one.
+
+160
+00:10:45,090 --> 00:10:52,740
+So I take a treat once again but in fact inside zero 1 and minus two perform rotation performed a rotation
+
+161
+00:10:52,820 --> 00:11:01,500
+with this node first so then that displays comes 20 and on the right side it will be Turkey for the
+
+162
+00:11:01,500 --> 00:11:08,430
+balance factor side of zero minus 1 and minus 2 then perform rotation around this more this more we
+
+163
+00:11:08,430 --> 00:11:17,070
+get that present tense pull the down 20 comes here today also more so we get that if you want to see
+
+164
+00:11:17,070 --> 00:11:23,600
+your direct method then this should be sent as a rule or a parent and this should move one left side.
+
+165
+00:11:23,810 --> 00:11:28,890
+So again this is also double the rotation right because there are two steps.
+
+166
+00:11:28,910 --> 00:11:36,260
+Actually these are the steps but for understanding we take that one so whichever you are comfortable
+
+167
+00:11:36,260 --> 00:11:37,850
+with you can follow that one.
+
+168
+00:11:37,970 --> 00:11:42,290
+That's all about four rotations we saw let me write on the rotations.
+
+169
+00:11:42,290 --> 00:11:46,970
+We have seen first as a little rotation the eleventh hour out on probation.
+
+170
+00:11:46,970 --> 00:11:52,110
+These are called us single rotations.
+
+171
+00:11:52,200 --> 00:11:57,440
+These were having single step and a lot an all of Ghana's double rubbish.
+
+172
+00:11:57,600 --> 00:11:59,560
+But don't count desires.
+
+173
+00:11:59,610 --> 00:12:02,300
+Rotations count as one only.
+
+174
+00:12:02,520 --> 00:12:05,190
+See there is a difference between a double and two.
+
+175
+00:12:05,520 --> 00:12:07,890
+So don't count the mass to rotation.
+
+176
+00:12:07,890 --> 00:12:14,040
+This rotation if I take a lot less one rotation but it is having both steps so it is double capacities
+
+177
+00:12:14,100 --> 00:12:16,170
+double sizes double number of steps.
+
+178
+00:12:16,200 --> 00:12:20,870
+Steps are double by so this one on me but his size is double.
+
+179
+00:12:21,360 --> 00:12:25,270
+So that's all about rotations now out of four rotations.
+
+180
+00:12:25,290 --> 00:12:28,330
+I'll give you one observation that may be very useful for you.
+
+181
+00:12:28,470 --> 00:12:33,000
+That would be logical useful for you observe this one so all the four rotations.
+
+182
+00:12:33,000 --> 00:12:34,850
+What does the observation look at here.
+
+183
+00:12:35,190 --> 00:12:38,550
+So using three keys or three laws.
+
+184
+00:12:39,880 --> 00:12:46,620
+So I have a three notes that is the three keys using three keys how many different binary search fields
+
+185
+00:12:46,620 --> 00:12:55,170
+we can form five how to N C and men plus one number of binary search streets we can create out of n
+
+186
+00:12:55,170 --> 00:12:59,180
+keys so far 3 5 3s we can create.
+
+187
+00:12:59,190 --> 00:13:01,170
+So what are those how they look like.
+
+188
+00:13:01,170 --> 00:13:02,370
+I will draw them.
+
+189
+00:13:02,370 --> 00:13:05,430
+See these other five trees out of three keys.
+
+190
+00:13:05,430 --> 00:13:14,980
+We can generate five different binary search trees to NC and man plus 1 5 our possible what is the height.
+
+191
+00:13:14,980 --> 00:13:20,010
+0 1 2 0 1 2 0 1 0 1 2 0 1 0.
+
+192
+00:13:20,020 --> 00:13:29,560
+That is of minimum height so for trees of larger height and that is of smaller height AVR trees means
+
+193
+00:13:29,560 --> 00:13:30,060
+height.
+
+194
+00:13:30,070 --> 00:13:33,100
+Balance binary search tree so which is more height.
+
+195
+00:13:33,100 --> 00:13:33,790
+Balance.
+
+196
+00:13:34,000 --> 00:13:39,070
+So when you have three keys you can draw binary search free of any shape or a lot of binary so she's
+
+197
+00:13:39,100 --> 00:13:46,380
+only so if you have this one why don't you take that one change this one to that one horrible change
+
+198
+00:13:46,450 --> 00:13:51,600
+we are saying that we are performing rotation we are saying that we are performing rotation or this
+
+199
+00:13:51,600 --> 00:13:57,210
+one or this one are double the rotation right first on this one.
+
+200
+00:13:57,210 --> 00:14:01,750
+Next on this one or double the rotation Foster on this one then on this one.
+
+201
+00:14:02,130 --> 00:14:08,880
+So actually we have transformed these four trees and Kodak tree because that is height of balance and
+
+202
+00:14:08,880 --> 00:14:10,060
+how we transform.
+
+203
+00:14:10,110 --> 00:14:17,230
+We are seeing that we have performed rotation so this is the idea behind a trees so idea originates
+
+204
+00:14:17,360 --> 00:14:18,300
+from here.
+
+205
+00:14:18,460 --> 00:14:20,740
+Then you can have five different shapes.
+
+206
+00:14:20,770 --> 00:14:27,440
+Why don't you select that ship even if you've got this one modify it even if you got this one modified
+
+207
+00:14:27,440 --> 00:14:28,440
+it to that ship.
+
+208
+00:14:28,450 --> 00:14:34,270
+So this all about rotations at the time of creation at the time of insertion.
+
+209
+00:14:34,270 --> 00:14:36,220
+Next we will see the examples.
+
+210
+00:14:36,220 --> 00:14:41,820
+If a tree is bigger Howard or patient is perform I'll discuss various things in that topic.
