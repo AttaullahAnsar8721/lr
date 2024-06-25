@@ -1,0 +1,679 @@
+1
+00:00:00,330 --> 00:00:00,500
+Yeah.
+
+2
+00:00:00,510 --> 00:00:06,020
+The topic is height versus Nord analysis for aviary trees.
+
+3
+00:00:06,390 --> 00:00:15,900
+Similar analysis we have already done for general binary trees and strict binary trees and also for
+
+4
+00:00:16,710 --> 00:00:19,640
+complete or strict energy trees.
+
+5
+00:00:19,650 --> 00:00:21,310
+We have done the same analysis.
+
+6
+00:00:21,360 --> 00:00:24,520
+I will do that analysis upon.
+
+7
+00:00:24,780 --> 00:00:31,900
+So what do we have to do is if height of our aviary is given height as a given then fine minimum how
+
+8
+00:00:31,890 --> 00:00:38,790
+many ones are possible in that kite man Zimmerman how many lawns are possible in that pipe so a military
+
+9
+00:00:38,790 --> 00:00:44,830
+is a binary tree only basically by military then by Navy SEALs street then it is height to balance of
+
+10
+00:00:44,840 --> 00:00:47,640
+binary search for basically it is a binary tree.
+
+11
+00:00:47,730 --> 00:00:54,360
+So in any binary tree if height for tree is given then maximum how many nodes can we do to bind each
+
+12
+00:00:54,360 --> 00:00:56,300
+plus one minus one N will be dead.
+
+13
+00:00:56,370 --> 00:00:57,410
+Yes we know this one.
+
+14
+00:00:58,320 --> 00:01:00,020
+So I don't have to explain that one.
+
+15
+00:01:00,030 --> 00:01:02,660
+So this is coming from binary trees right.
+
+16
+00:01:02,670 --> 00:01:06,000
+So anyway I will come across this formula once again.
+
+17
+00:01:06,000 --> 00:01:10,980
+Now the question is minimum how many n if height is given.
+
+18
+00:01:11,140 --> 00:01:18,970
+So how to get the formula C formula by taking the sample values are examples from the observation you
+
+19
+00:01:18,970 --> 00:01:22,290
+can prepare the formula so formulas come from observation.
+
+20
+00:01:22,510 --> 00:01:28,470
+Let us take some examples of some heights of a few trees then see how many minimum notes required.
+
+21
+00:01:28,480 --> 00:01:29,800
+Then we'll come up with the formula.
+
+22
+00:01:29,890 --> 00:01:31,760
+So let me show you some examples.
+
+23
+00:01:31,780 --> 00:01:35,050
+First example let us assume that high.
+
+24
+00:01:35,050 --> 00:01:36,290
+This one.
+
+25
+00:01:37,000 --> 00:01:37,890
+What about height.
+
+26
+00:01:37,890 --> 00:01:42,440
+Zero level stock height from 1 onwards right.
+
+27
+00:01:42,870 --> 00:01:47,710
+So here we will start from the same height as 1.
+
+28
+00:01:47,760 --> 00:01:51,620
+Then just one Lord I'm not labelling I'm not putting any values.
+
+29
+00:01:51,660 --> 00:01:57,540
+So how many loans required minimum one only maximum also one minimum one for one high does not zero
+
+30
+00:01:57,540 --> 00:02:00,300
+height is starting for one the next.
+
+31
+00:02:00,510 --> 00:02:05,180
+If height is two then minimum how many laws are required.
+
+32
+00:02:06,380 --> 00:02:18,470
+Do not see as I do not if high desert 3 then the minimum how many n Reynolds 3 Norfolk y minimum 3 n
+
+33
+00:02:19,730 --> 00:02:20,720
+no wrong.
+
+34
+00:02:20,720 --> 00:02:22,010
+This is wrong.
+
+35
+00:02:22,010 --> 00:02:28,840
+Is it a military aviator agreements height balance safety check the balance factors this is zero.
+
+36
+00:02:28,910 --> 00:02:31,250
+This is one and this is a two.
+
+37
+00:02:31,280 --> 00:02:36,120
+This is not balance so I need one more Lord on this side to make it balance.
+
+38
+00:02:36,200 --> 00:02:43,460
+Yes not a balance factor Assad 0 0 1 0 and this is one yes.
+
+39
+00:02:43,670 --> 00:02:47,320
+This is the balance that set minimum Nordmann.
+
+40
+00:02:47,360 --> 00:02:48,390
+It must be balance.
+
+41
+00:02:48,440 --> 00:02:49,130
+So minimum.
+
+42
+00:02:49,130 --> 00:02:51,610
+How many notes required for notes required.
+
+43
+00:02:51,830 --> 00:02:58,010
+So take four then then to hide this for and then at minimum how many notes required.
+
+44
+00:02:58,010 --> 00:03:02,180
+One two three four is in balance.
+
+45
+00:03:02,180 --> 00:03:06,230
+No this site I need some n one nor is it sufficient.
+
+46
+00:03:06,270 --> 00:03:09,900
+No still it is in balance one more nor is it balance.
+
+47
+00:03:09,910 --> 00:03:11,290
+No yes that is valid.
+
+48
+00:03:11,360 --> 00:03:12,500
+What about this note.
+
+49
+00:03:12,560 --> 00:03:14,030
+This is not balanced.
+
+50
+00:03:14,030 --> 00:03:14,390
+How.
+
+51
+00:03:14,390 --> 00:03:16,010
+Now everything is balance.
+
+52
+00:03:16,100 --> 00:03:16,760
+Let us check.
+
+53
+00:03:16,890 --> 00:03:18,740
+0 1 0.
+
+54
+00:03:20,050 --> 00:03:21,640
+And this is one this is zero.
+
+55
+00:03:21,640 --> 00:03:23,110
+This is minus one.
+
+56
+00:03:23,110 --> 00:03:23,860
+And this is one.
+
+57
+00:03:23,890 --> 00:03:25,270
+One two three one two.
+
+58
+00:03:25,660 --> 00:03:26,280
+Yes.
+
+59
+00:03:26,290 --> 00:03:28,450
+So total how many in order to the flag.
+
+60
+00:03:28,450 --> 00:03:36,820
+One two three four five six seven seven Nordic flag mainly among seven North required for height four
+
+61
+00:03:37,810 --> 00:03:40,590
+where the heights are starting from 1 onwards.
+
+62
+00:03:40,630 --> 00:03:43,360
+That 4 5 also I draw I right here.
+
+63
+00:03:43,360 --> 00:03:44,990
+There is no space on that site.
+
+64
+00:03:45,160 --> 00:03:47,630
+If height is a 5 then the minimum.
+
+65
+00:03:47,710 --> 00:03:50,000
+How many noughts required.
+
+66
+00:03:50,120 --> 00:03:51,200
+I not right.
+
+67
+00:03:51,280 --> 00:03:54,910
+One two three four five.
+
+68
+00:03:54,910 --> 00:03:56,310
+No there's not balance.
+
+69
+00:03:56,620 --> 00:04:02,080
+If you have five no deciding during this one for normal with there then only this balance.
+
+70
+00:04:02,140 --> 00:04:05,200
+Okay one two three.
+
+71
+00:04:05,200 --> 00:04:06,730
+Total one two three four.
+
+72
+00:04:06,760 --> 00:04:07,470
+Yes perfect.
+
+73
+00:04:07,480 --> 00:04:08,910
+Including that group.
+
+74
+00:04:08,990 --> 00:04:13,030
+Then what about this for this including this one one two three four you have.
+
+75
+00:04:13,030 --> 00:04:14,960
+So you should have one.
+
+76
+00:04:15,170 --> 00:04:16,200
+One two three.
+
+77
+00:04:16,200 --> 00:04:17,470
+No it is balance.
+
+78
+00:04:17,530 --> 00:04:18,640
+Now here you have three.
+
+79
+00:04:18,640 --> 00:04:21,220
+So here you should have to balance.
+
+80
+00:04:21,220 --> 00:04:22,360
+Here you have three.
+
+81
+00:04:22,360 --> 00:04:24,500
+Here you should have to balance.
+
+82
+00:04:24,570 --> 00:04:25,870
+No this is a balance.
+
+83
+00:04:25,870 --> 00:04:30,110
+If you check the balance factor for all the lords then the tree is a balance.
+
+84
+00:04:30,170 --> 00:04:31,790
+But how many nodes are there.
+
+85
+00:04:31,810 --> 00:04:36,090
+One two three four five six seven eight nine ten eleven two one.
+
+86
+00:04:36,340 --> 00:04:39,130
+So minimum two will static land.
+
+87
+00:04:39,220 --> 00:04:41,500
+Yes.
+
+88
+00:04:41,660 --> 00:04:47,240
+Now we have enough examples for observation and to get the farm along.
+
+89
+00:04:47,330 --> 00:04:48,890
+No I have some set of values.
+
+90
+00:04:48,890 --> 00:04:55,040
+Let me pick a better table if height is given then how many loads for a given height.
+
+91
+00:04:55,160 --> 00:05:15,860
+Let us make it our function so if height is 1 1 Node 2 2 3 4 2 2 3 4 4 7 4 7 5 2 1 5 2 then I'll extend
+
+92
+00:05:15,880 --> 00:05:20,510
+it 6 and 7.
+
+93
+00:05:20,570 --> 00:05:21,900
+Tell me the answer for this.
+
+94
+00:05:21,960 --> 00:05:22,880
+I got this too.
+
+95
+00:05:23,090 --> 00:05:28,960
+Let us observe 4 plus 7 eleven eleven plus one okay.
+
+96
+00:05:29,150 --> 00:05:31,780
+Four plus seven plus one.
+
+97
+00:05:31,850 --> 00:05:36,830
+Am I getting this value also like that only two plus four six plus one.
+
+98
+00:05:36,860 --> 00:05:37,710
+Yes seven.
+
+99
+00:05:38,240 --> 00:05:39,330
+How I got this one.
+
+100
+00:05:39,380 --> 00:05:43,180
+One plus two three plus one four.
+
+101
+00:05:43,190 --> 00:05:52,740
+So it means this one is seven plus two L 19 plus one twenty then how to get this one twenty plus twenty
+
+102
+00:05:52,830 --> 00:05:55,630
+thirty two plus one thirty three yes.
+
+103
+00:05:55,860 --> 00:06:04,430
+So the formalise number also laws for a given height as previous two values are either then plus 1.
+
+104
+00:06:04,440 --> 00:06:15,960
+So and off at minus two plus and of two minus one plus one plus one yes this is the formula then for
+
+105
+00:06:15,960 --> 00:06:23,660
+the very first value I should have two values with me so then height is a zero answer is zero then hide
+
+106
+00:06:23,670 --> 00:06:26,430
+this one then the answer is one right.
+
+107
+00:06:27,030 --> 00:06:29,120
+Otherwise this is done.
+
+108
+00:06:29,380 --> 00:06:35,520
+So in height to zero onset of zero height if one answer is one otherwise this is the formula used for
+
+109
+00:06:35,570 --> 00:06:47,150
+formula for a minimum is this one and for this this the table so minimum n can be obtained by this formula
+
+110
+00:06:47,190 --> 00:06:52,800
+so I should write on this formula here for a minimum N0 I would not write the formula I will say look
+
+111
+00:06:52,800 --> 00:06:59,670
+in the table so far a minimum launch to look into the table so if I guessed minimum go alongside a six
+
+112
+00:06:59,670 --> 00:07:05,420
+minimum print in order like this then there is one change here see I started height from 1 onwards then
+
+113
+00:07:05,430 --> 00:07:13,650
+I have only one note height this one onward so if height is a three then seven n seven notes right this
+
+114
+00:07:13,650 --> 00:07:22,150
+height is three 1 2 3 so maximum 7 N1 the height is a 3 so this maximum known formula we will get it
+
+115
+00:07:22,160 --> 00:07:28,380
+to board that ship plus one minus one but no we will have just to put H minus one formula because the
+
+116
+00:07:28,380 --> 00:07:34,650
+height is a starting from 1 onwards for maximum nought formalized this fund so if I add this one more
+
+117
+00:07:34,740 --> 00:07:41,310
+and these are two N and these are one two three four more so to square so this is one plus two plus
+
+118
+00:07:41,310 --> 00:07:48,170
+two square is equals to two cube minus 1 to cube minus 1 is what h minus 1 that is 7.
+
+119
+00:07:48,330 --> 00:07:52,020
+So yes we have a 7 or so this is 2 cube height is 3.
+
+120
+00:07:52,020 --> 00:07:59,460
+So just to polish minus one Now we have the formulas if height is given that the minimum north and maximum
+
+121
+00:07:59,460 --> 00:08:06,870
+n we need another formula if no exotic given that modest minimum height and maximum height so let me
+
+122
+00:08:06,900 --> 00:08:14,250
+I don't know if remove this if and nodes are given then find minimum height and maximum height so if
+
+123
+00:08:14,250 --> 00:08:20,700
+you remember in binary trees what we did is we converted this minimum form a la to maximum formula and
+
+124
+00:08:20,700 --> 00:08:26,850
+maximum form a local minimum formula will do the same thing here so we don't have to do any analysis
+
+125
+00:08:27,210 --> 00:08:34,380
+see maximum laws are any equal to two bodies plus one minus one then minimum height will be edge is
+
+126
+00:08:34,380 --> 00:08:41,360
+equals to endless one log base 2 so log B is to endless morning of minus 1 because in power we don't
+
+127
+00:08:41,370 --> 00:08:42,380
+have plus one here.
+
+128
+00:08:42,900 --> 00:08:46,680
+So log based wind plus 1 then what about maximum height.
+
+129
+00:08:46,770 --> 00:08:49,050
+This comes from minimum North formula.
+
+130
+00:08:49,050 --> 00:08:56,690
+There it is look under tables so here also look in the table you have to look into the table how.
+
+131
+00:08:56,700 --> 00:08:58,250
+Let me give an example.
+
+132
+00:08:58,410 --> 00:09:02,750
+If I have a tool n then what is the maximum height size.
+
+133
+00:09:02,880 --> 00:09:13,510
+If I have putting n tardiness less than being D so beside only here only putting n also 5 15 n 5 only
+
+134
+00:09:13,510 --> 00:09:22,880
+maximum height maximum height 5 19 n height is 5 maximum so these are minimum notes required for getting
+
+135
+00:09:22,880 --> 00:09:24,080
+this height.
+
+136
+00:09:24,110 --> 00:09:29,180
+Now I have 20 n okay maximum height of 6 maximum height defects.
+
+137
+00:09:29,180 --> 00:09:33,650
+So from this to well go 19 maximum height is five.
+
+138
+00:09:33,730 --> 00:09:40,340
+Bring T2 today to maximum height to six so you can look into the table and you can read this letter
+
+139
+00:09:40,580 --> 00:09:44,730
+and stuff and stuff from height towards Lord.
+
+140
+00:09:44,780 --> 00:09:49,010
+You have to see from note towards height that set so you can find out.
+
+141
+00:09:49,580 --> 00:09:55,910
+So you have to practice this little bit put it by yourself using pen and paper then you will remember
+
+142
+00:09:55,910 --> 00:09:56,990
+everything right.
+
+143
+00:09:56,990 --> 00:09:59,760
+Just practice it once you will remember it.
+
+144
+00:10:00,230 --> 00:10:03,740
+So we have done in-depth analysis of a reality.
+
+145
+00:10:04,050 --> 00:10:12,890
+Now one lasting see this formula for a minimum number of nodes of farm like this one minimum number
+
+146
+00:10:12,890 --> 00:10:14,550
+of four nodes formula.
+
+147
+00:10:14,630 --> 00:10:19,490
+Actually this formula is meant for this one and also useful here.
+
+148
+00:10:19,640 --> 00:10:22,520
+Pi does given n minimum n formula.
+
+149
+00:10:22,820 --> 00:10:26,450
+This formalized same as Fibonacci series formula.
+
+150
+00:10:26,450 --> 00:10:34,570
+Yes Fibonacci series is famous for being a balanced series balanced series.
+
+151
+00:10:34,580 --> 00:10:42,980
+You pick any good arms off you will CCD like high and as a plus one any build done for example effort
+
+152
+00:10:43,000 --> 00:10:47,060
+10 and F eleven two thumbs then f 11 by effort.
+
+153
+00:10:47,060 --> 00:10:51,610
+Then if you do R F I plus one by F I.
+
+154
+00:10:51,680 --> 00:10:57,100
+If you do a ratio will be one point six approximately.
+
+155
+00:10:57,100 --> 00:10:58,170
+Not exactly.
+
+156
+00:10:58,200 --> 00:11:05,240
+It may be 1 1 5 9 8 baby one point 5 7 also you should accept that as one point six or it may 1 point
+
+157
+00:11:05,240 --> 00:11:09,140
+6 1 6 2 also approximately one point 6.
+
+158
+00:11:09,320 --> 00:11:16,520
+So any two consecutive numbers if you take the ratio at is one point six so Fibonacci series is believed
+
+159
+00:11:16,520 --> 00:11:19,000
+to be are balanced series.
+
+160
+00:11:19,010 --> 00:11:27,950
+So this formalize a matching with Fibonacci series means aviary trees are also balanced does it prove
+
+161
+00:11:28,130 --> 00:11:35,410
+that they are balance because so therefore allow for more towards us height same as Fibonacci series
+
+162
+00:11:35,630 --> 00:11:44,770
+then one last time minimum hide is log in plus one base to maximum height look into the table table
+
+163
+00:11:44,770 --> 00:11:46,460
+is from the formula.
+
+164
+00:11:46,460 --> 00:11:49,510
+So from this formula contact calculate height.
+
+165
+00:11:49,700 --> 00:11:56,270
+Yes approximately if you calculate from this one there is a derivation if we derive that and get done
+
+166
+00:11:56,270 --> 00:12:06,830
+so then approximately approximately it is equal to one point forty four log base 2 and plus 2 if you
+
+167
+00:12:06,830 --> 00:12:14,920
+use this form land converted in dozens of log in we get the funds so minimum height is also logarithmic
+
+168
+00:12:14,930 --> 00:12:23,060
+maximum height is also multiple of logarithmic but logarithmic so aviary tree's height as always in
+
+169
+00:12:23,060 --> 00:12:25,170
+terms of the log that.
+
+170
+00:12:25,250 --> 00:12:29,840
+This is enough with the analysis of hi towards us notes.
